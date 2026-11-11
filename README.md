@@ -192,18 +192,6 @@ Open your browser at `http://localhost:8501` to:
 
 ---
 
-## 👥 Project Team & Contributors
-
-**Group 27** · *Data Privacy Request Fulfilment Desk*
-
-| Name | Registration Number | Primary Responsibility |
-| :--- | :--- | :--- |
-| **Praveen Kumar Yadav** | **12304556** | System Architecture, Multi-Agent Engine & Streamlit UI |
-| **Md Aqudash Javed** | **12308921** | Policy Grounded RAG (ChromaDB) & Redaction Tool |
-| **Sourabh Goutam** | **12310993** | Request Classifier Agent, Data Locator & Evaluation Benchmark |
-
----
-
 ## 📜 License
 This project is developed for educational and research purposes under the MIT License.
 
