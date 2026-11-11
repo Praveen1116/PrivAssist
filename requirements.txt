@@ -1,0 +1,9 @@
+agent-framework-core
+agent-framework-openai
+openai
+chromadb
+pypdf
+streamlit
+pydantic
+python-dotenv
+
