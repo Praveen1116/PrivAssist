@@ -148,7 +148,7 @@ def process_privacy_request(test_request: dict, reviewer_name: str = "Praveen Ku
             f"Under Section 4.2 of DataVault Technologies Privacy Policy and India's DPDP Act 2023, "
             f"all data requests require positive identity verification before any internal system is accessed. "
             f"Please submit valid government photo ID (Aadhaar/PAN/Passport) or verify via OTP to complete your request.\n\n"
-            f"Sincerely,\nPriya Nambiar\nData Protection Officer, DataVault Technologies Pvt. Ltd."
+            f"Sincerely,\n{reviewer_name}\nData Protection Officer, DataVault Technologies Pvt. Ltd."
         )
         return record
 
@@ -240,7 +240,7 @@ def process_privacy_request(test_request: dict, reviewer_name: str = "Praveen Ku
         f"Determination: {action}\n"
         f"Summary: {reason}{exceptions_text}\n\n"
         f"If you have questions regarding this decision, contact dpo@datavault.in.\n\n"
-        f"Sincerely,\nPriya Nambiar\nData Protection Officer, DataVault Technologies Pvt. Ltd."
+        f"Sincerely,\n{reviewer_name}\nData Protection Officer, DataVault Technologies Pvt. Ltd."
     )
 
     return record
