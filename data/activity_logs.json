@@ -1,0 +1,182 @@
+[
+  {
+    "log_id": "LOG-001",
+    "user_id": "U001",
+    "action": "login",
+    "timestamp": "2024-01-15T09:23:00Z",
+    "ip_address": "103.21.58.12",
+    "device": "Chrome / Windows",
+    "location": "Delhi, India",
+    "status": "success"
+  },
+  {
+    "log_id": "LOG-002",
+    "user_id": "U001",
+    "action": "password_change",
+    "timestamp": "2024-01-15T09:45:00Z",
+    "ip_address": "103.21.58.12",
+    "device": "Chrome / Windows",
+    "location": "Delhi, India",
+    "status": "success"
+  },
+  {
+    "log_id": "LOG-003",
+    "user_id": "U001",
+    "action": "file_download",
+    "timestamp": "2024-01-16T14:10:00Z",
+    "ip_address": "103.21.58.12",
+    "device": "Chrome / Windows",
+    "location": "Delhi, India",
+    "status": "success"
+  },
+  {
+    "log_id": "LOG-004",
+    "user_id": "U002",
+    "action": "login",
+    "timestamp": "2024-02-01T11:00:00Z",
+    "ip_address": "49.37.201.55",
+    "device": "Safari / macOS",
+    "location": "Kolkata, India",
+    "status": "success"
+  },
+  {
+    "log_id": "LOG-005",
+    "user_id": "U002",
+    "action": "login",
+    "timestamp": "2024-02-10T08:30:00Z",
+    "ip_address": "182.68.145.21",
+    "device": "Mobile / Android",
+    "location": "Mumbai, India",
+    "status": "failed"
+  },
+  {
+    "log_id": "LOG-006",
+    "user_id": "U003",
+    "action": "login",
+    "timestamp": "2023-12-20T17:45:00Z",
+    "ip_address": "117.96.78.34",
+    "device": "Firefox / Linux",
+    "location": "Mumbai, India",
+    "status": "success"
+  },
+  {
+    "log_id": "LOG-007",
+    "user_id": "U003",
+    "action": "account_deactivation_request",
+    "timestamp": "2023-12-21T10:00:00Z",
+    "ip_address": "117.96.78.34",
+    "device": "Firefox / Linux",
+    "location": "Mumbai, India",
+    "status": "pending"
+  },
+  {
+    "log_id": "LOG-008",
+    "user_id": "U004",
+    "action": "login",
+    "timestamp": "2024-03-05T13:20:00Z",
+    "ip_address": "59.144.201.88",
+    "device": "Chrome / Android",
+    "location": "Hyderabad, India",
+    "status": "success"
+  },
+  {
+    "log_id": "LOG-009",
+    "user_id": "U005",
+    "action": "profile_update",
+    "timestamp": "2024-01-28T16:55:00Z",
+    "ip_address": "27.57.89.100",
+    "device": "Chrome / Windows",
+    "location": "Bangalore, India",
+    "status": "success"
+  },
+  {
+    "log_id": "LOG-010",
+    "user_id": "U005",
+    "action": "data_export_request",
+    "timestamp": "2024-01-29T09:00:00Z",
+    "ip_address": "27.57.89.100",
+    "device": "Chrome / Windows",
+    "location": "Bangalore, India",
+    "status": "success"
+  },
+  {
+    "log_id": "LOG-011",
+    "user_id": "U006",
+    "action": "login",
+    "timestamp": "2024-04-10T10:10:00Z",
+    "ip_address": "203.88.141.77",
+    "device": "Edge / Windows",
+    "location": "Jaipur, India",
+    "status": "success"
+  },
+  {
+    "log_id": "LOG-012",
+    "user_id": "U007",
+    "action": "login",
+    "timestamp": "2023-05-01T07:30:00Z",
+    "ip_address": "45.112.78.90",
+    "device": "Chrome / Windows",
+    "location": "Kolkata, India",
+    "status": "failed"
+  },
+  {
+    "log_id": "LOG-013",
+    "user_id": "U007",
+    "action": "login",
+    "timestamp": "2023-05-01T07:35:00Z",
+    "ip_address": "45.112.78.90",
+    "device": "Chrome / Windows",
+    "location": "Kolkata, India",
+    "status": "failed"
+  },
+  {
+    "log_id": "LOG-014",
+    "user_id": "U007",
+    "action": "account_suspended",
+    "timestamp": "2023-05-01T07:40:00Z",
+    "ip_address": "45.112.78.90",
+    "device": "Chrome / Windows",
+    "location": "Kolkata, India",
+    "status": "system"
+  },
+  {
+    "log_id": "LOG-015",
+    "user_id": "U008",
+    "action": "login",
+    "timestamp": "2024-02-20T12:00:00Z",
+    "ip_address": "106.51.22.34",
+    "device": "Safari / iOS",
+    "location": "Chennai, India",
+    "status": "success"
+  },
+  {
+    "log_id": "LOG-016",
+    "user_id": "U009",
+    "action": "login",
+    "timestamp": "2023-11-30T18:45:00Z",
+    "ip_address": "115.240.33.78",
+    "device": "Chrome / Windows",
+    "location": "Lucknow, India",
+    "status": "success"
+  },
+  {
+    "log_id": "LOG-017",
+    "user_id": "U009",
+    "action": "subscription_upgrade",
+    "timestamp": "2023-12-01T10:00:00Z",
+    "ip_address": "115.240.33.78",
+    "device": "Chrome / Windows",
+    "location": "Lucknow, India",
+    "status": "success"
+  },
+  {
+    "log_id": "LOG-018",
+    "user_id": "U010",
+    "action": "login",
+    "timestamp": "2024-05-22T09:15:00Z",
+    "ip_address": "49.248.17.55",
+    "device": "Chrome / Android",
+    "location": "Ahmedabad, India",
+    "status": "success"
+  }
+]

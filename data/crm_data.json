@@ -1,0 +1,122 @@
+[
+  {
+    "user_id": "U001",
+    "name": "Rahul Sharma",
+    "email": "rahul.sharma@gmail.com",
+    "phone": "+91-9876543210",
+    "account_created": "2021-06-15",
+    "address": "42, MG Road, Delhi, India",
+    "dob": "1992-04-10",
+    "nationality": "Indian",
+    "account_status": "active",
+    "third_party_referral": "Amit Verma (amit.verma@gmail.com)"
+  },
+  {
+    "user_id": "U002",
+    "name": "Priya Mehta",
+    "email": "priya.mehta@yahoo.com",
+    "phone": "+91-8765432109",
+    "account_created": "2020-11-20",
+    "address": "15, Park Street, Kolkata, India",
+    "dob": "1995-08-22",
+    "nationality": "Indian",
+    "account_status": "active",
+    "third_party_referral": "Neha Singh (neha.singh@gmail.com)"
+  },
+  {
+    "user_id": "U003",
+    "name": "Arjun Patel",
+    "email": "arjun.patel@hotmail.com",
+    "phone": "+91-7654321098",
+    "account_created": "2019-03-05",
+    "address": "8, Linking Road, Mumbai, India",
+    "dob": "1988-12-30",
+    "nationality": "Indian",
+    "account_status": "inactive",
+    "third_party_referral": "Ravi Kumar (ravi.kumar@gmail.com)"
+  },
+  {
+    "user_id": "U004",
+    "name": "Sneha Reddy",
+    "email": "sneha.reddy@gmail.com",
+    "phone": "+91-6543210987",
+    "account_created": "2022-07-18",
+    "address": "23, Banjara Hills, Hyderabad, India",
+    "dob": "1998-03-14",
+    "nationality": "Indian",
+    "account_status": "active",
+    "third_party_referral": "Pooja Das (pooja.das@gmail.com)"
+  },
+  {
+    "user_id": "U005",
+    "name": "Vikram Nair",
+    "email": "vikram.nair@gmail.com",
+    "phone": "+91-5432109876",
+    "account_created": "2018-09-25",
+    "address": "11, Koramangala, Bangalore, India",
+    "dob": "1985-07-07",
+    "nationality": "Indian",
+    "account_status": "active",
+    "third_party_referral": "Suresh Pillai (suresh.pillai@gmail.com)"
+  },
+  {
+    "user_id": "U006",
+    "name": "Anjali Gupta",
+    "email": "anjali.gupta@gmail.com",
+    "phone": "+91-4321098765",
+    "account_created": "2023-01-10",
+    "address": "5, Civil Lines, Jaipur, India",
+    "dob": "2000-11-19",
+    "nationality": "Indian",
+    "account_status": "active",
+    "third_party_referral": "Mohit Sharma (mohit.sharma@gmail.com)"
+  },
+  {
+    "user_id": "U007",
+    "name": "Rohit Das",
+    "email": "rohit.das@gmail.com",
+    "phone": "+91-3210987654",
+    "account_created": "2021-04-30",
+    "address": "17, Salt Lake, Kolkata, India",
+    "dob": "1993-06-25",
+    "nationality": "Indian",
+    "account_status": "suspended",
+    "third_party_referral": "Tanmoy Roy (tanmoy.roy@gmail.com)"
+  },
+  {
+    "user_id": "U008",
+    "name": "Kavya Iyer",
+    "email": "kavya.iyer@gmail.com",
+    "phone": "+91-2109876543",
+    "account_created": "2020-08-14",
+    "address": "9, T Nagar, Chennai, India",
+    "dob": "1996-02-28",
+    "nationality": "Indian",
+    "account_status": "active",
+    "third_party_referral": "Lakshmi Rajan (lakshmi.rajan@gmail.com)"
+  },
+  {
+    "user_id": "U009",
+    "name": "Manish Tiwari",
+    "email": "manish.tiwari@gmail.com",
+    "phone": "+91-1098765432",
+    "account_created": "2017-12-01",
+    "address": "3, Hazratganj, Lucknow, India",
+    "dob": "1983-09-15",
+    "nationality": "Indian",
+    "account_status": "active",
+    "third_party_referral": "Deepak Mishra (deepak.mishra@gmail.com)"
+  },
+  {
+    "user_id": "U010",
+    "name": "Divya Bhatt",
+    "email": "divya.bhatt@gmail.com",
+    "phone": "+91-9087654321",
+    "account_created": "2022-05-22",
+    "address": "27, Vastrapur, Ahmedabad, India",
+    "dob": "1997-01-05",
+    "nationality": "Indian",
+    "account_status": "active",
+    "third_party_referral": "Hetal Shah (hetal.shah@gmail.com)"
+  }
+]

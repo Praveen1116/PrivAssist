@@ -1,0 +1,57 @@
+{
+  "request_id": "",
+  "timestamp": "",
+  "requester": {
+    "user_id": "",
+    "name": "",
+    "email": "",
+    "identity_verified": false,
+    "verified_by": ""
+  },
+  "raw_request": "",
+  "classification": {
+    "label": "",
+    "confidence": 0.0,
+    "agent": "RequestClassifierAgent",
+    "status": "pending"
+  },
+  "identity_gate": {
+    "passed": false,
+    "checked_by": "",
+    "timestamp": ""
+  },
+  "data_located": {
+    "systems_searched": ["crm", "billing", "activity_logs"],
+    "records_found": {
+      "crm": [],
+      "billing": [],
+      "activity_logs": []
+    },
+    "agent": "DataLocatorAgent",
+    "status": "pending"
+  },
+  "policy_retrieved": {
+    "query": "",
+    "clauses": [],
+    "retention_exceptions": [],
+    "agent": "PolicyRetrievalAgent",
+    "status": "pending"
+  },
+  "redacted_data": {
+    "crm": [],
+    "billing": [],
+    "activity_logs": [],
+    "agent": "RedactionAgent",
+    "status": "pending"
+  },
+  "final_decision": {
+    "action": "",
+    "data_to_release": [],
+    "data_to_erase": [],
+    "data_blocked": [],
+    "reason": "",
+    "agent": "ComplianceManager",
+    "status": "pending"
+  },
+  "response_letter": ""
+}
